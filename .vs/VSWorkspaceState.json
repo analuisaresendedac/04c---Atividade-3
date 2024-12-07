@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Contexts",
+    "\\Controllers",
+    "\\Models",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Release",
+    "\\Properties",
+    "\\Repositories"
+  ],
+  "SelectedNode": "\\Models\\Projeto.cs",
+  "PreviewInSolutionExplorer": false
+}

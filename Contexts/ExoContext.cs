@@ -26,7 +26,7 @@ namespace Exo.WebApi.Contexts
               // + Trusted_Connection=False;
 
               // Exemplo 2 de string de conexão:
-              // Server=localhost\\SQLEXPRESS;Database=ExoApi;Trusted_Connection=True;
+              // Server=PC\\SQLEXPRESS;Database=ExoApi;Trusted_Connection=True;
             }
         }
         public DbSet<Projeto> Projetos { get; set; }
